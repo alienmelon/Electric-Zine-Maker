@@ -34,3 +34,5 @@ Note that the Electric Zine Maker being built this way was always the plan. I ju
 Also note that everything is provided "as is". I can't help with code here or requests. If (in the very strange) case that you want to use this or work with this... you're welcome to it! and are on your own... but thank you for your interest in it!
 
 Also, final note, I am not a good programmer. I am self taught and never had any formal training. What you see is how I roll... sorry.
+
+!["COSA logo"](http://nathalielawhead.com/noodles/cosaSticker1.png)
