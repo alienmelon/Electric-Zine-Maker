@@ -35,4 +35,4 @@ Also note that everything is provided "as is". I can't help with code here or re
 
 Also, final note, I am not a good programmer. I am self taught and never had any formal training. What you see is how I roll... sorry.
 
-["COSA logo"](http://nathalielawhead.com/noodles/cosaSticker1.png)
+!["COSA logo"](http://nathalielawhead.com/noodles/cosaSticker1.png)
