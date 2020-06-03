@@ -1,3 +1,3 @@
 * text=auto
 *.js linguist-detectable=true
-*.as linguist-detectable=true
+*.as linguist-vendored=false
